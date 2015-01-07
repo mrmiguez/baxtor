@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:flvc="info:flvc/manifest/v1" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:dcterms="http://purl.org/dc/terms/" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+  <titleInfo>
+    <title>Swollen-headed William</title>
+    <subTitle>painful stories and funny pictures after the German!</subTitle>
+  </titleInfo>
+  <identifier type="IID">FSU_DD2292L821914</identifier>
+  <name type="personal" usage="primary">
+    <namePart>Lucas, E. V. (Edward Verrall)</namePart>
+    <namePart type="date">1868-1938</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Morrow, George</namePart>
+    <namePart type="date">1869-1955</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">illustrator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="text">London</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="code" authority="marccountry">enk</placeTerm>
+    </place>
+    <publisher>Methuen</publisher>
+    <dateIssued>1914</dateIssued>
+    <edition>4th ed.</edition>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <accessCondition type="use and reproduction">Use of this item is provided for non-commercial, personal, educational, and        research use only. For information about the copyright and reproduction rights for this        item, please contact Special Collections &amp; Archives, Florida State University        Libraries, Tallahassee, Florida.</accessCondition>
+  <location>
+    <physicalLocation>Special Collections &amp; Archives, Florida State University Libraries,            Tallahassee, Florida.</physicalLocation>
+  </location>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>20 leaves : ill. ; 25 cm.</extent>
+    <digitalOrigin>"digitized other analog"</digitalOrigin>
+    <digitalOrigin2>electric boogaloo</digitalOrigin2>
+  </physicalDescription>
+  <note type="statement of responsibility">text adapted by E. V. Lucas ; drawings adapted by Geo. Morrow.</note>
+  <note>Parody on Struwwelpeter by Heinrich Hoffmann-Donner.</note>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart type="termsOfAddress">II</namePart>
+      <namePart type="termsOfAddress">German Emperor</namePart>
+      <namePart>William</namePart>
+      <namePart type="date">1859-1941</namePart>
+    </name>
+    <topic>Caricatures and cartoons</topic>
+  </subject>
+  <identifier type="oclc">09912231</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">PSP</recordContentSource>
+    <recordCreationDate encoding="marc">830915</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20120623033500.0</recordChangeDate>
+    <recordIdentifier>026799734</recordIdentifier>
+  </recordInfo>
+  <identifier type="fedora">fsu:111096</identifier>
+  <extension>
+    <flvc:flvc>
+      <flvc:owningInstitution>FSU</flvc:owningInstitution>
+      <flvc:submittingInstitution>FSU</flvc:submittingInstitution>
+    </flvc:flvc>
+  </extension>
+  <location displayLabel="purl">
+    <url>http://purl.flvc.org/fsu/fd/FSU_DD2292L821914</url>
+  </location>
+  <note type="bibliography">From Shaw Bibliography: English propaganda assumes literacy in its audience. Here English critic and biographer E.V. Lucas (1868-1938) offers a political parody of Heinrich Hoffman's "Struwwelpeter." Methuen also published patriotic speeches and Kipling's Great War writings.</note>
+</mods:mods>
