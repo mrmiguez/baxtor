@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:flvc="info:flvc/manifest/v1" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:dcterms="http://purl.org/dc/terms/" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+  <titleInfo>
+    <nonSort>A </nonSort>
+    <title>sough o' war</title>
+  </titleInfo>
+  <identifier type="IID">FSU_PR6025U713S681917</identifier>
+  <name type="personal" usage="primary">
+    <namePart>Murray, Charles</namePart>
+    <namePart type="date">1864-1941</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="text">London</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="code" authority="marccountry">enk</placeTerm>
+    </place>
+    <publisher>Constable</publisher>
+    <dateIssued>1917</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <accessCondition type="use and reproduction">Use of this item is provided for non-commercial, personal, educational, and
+        research use only. For information about the copyright and reproduction rights for this
+        item, please contact Special Collections &amp; Archives, Florida State University
+        Libraries, Tallahassee, Florida.</accessCondition>
+  <location>
+    <physicalLocation>Special Collections &amp; Archives, Florida State University Libraries,
+            Tallahassee, Florida.</physicalLocation>
+  </location>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>56 p. ; 18 cm.</extent>
+  </physicalDescription>
+  <note>Reprinted in part from various periodicals.</note>
+  <subject authority="lcsh">
+    <topic>World War, 1914-1918</topic>
+    <topic>Poetry</topic>
+  </subject>
+  <identifier type="oclc">02592681</identifier>
+  <recordInfo>
+    <recordContentSource authority="marcorg">GUA</recordContentSource>
+    <recordCreationDate encoding="marc">761203</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20120623080100.0</recordChangeDate>
+    <recordIdentifier>030141259</recordIdentifier>
+  </recordInfo>
+  <identifier type="fedora">fsu:112053</identifier>
+  <extension>
+    <flvc:flvc>
+      <flvc:owningInstitution>FSU</flvc:owningInstitution>
+      <flvc:submittingInstitution>FSU</flvc:submittingInstitution>
+    </flvc:flvc>
+  </extension>
+  <location displayLabel="purl">
+    <url>http://purl.flvc.org/fsu/fd/FSU_PR6025U713S681917</url>
+  </location>
+</mods:mods>
